@@ -66,22 +66,12 @@ The system includes:
 
 **Transmission Analysis Across Fiber Lengths**
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/e18d5785-d828-4d0c-921f-fe2ee4e06e0c" />
+
 
 ---
 
-## Graphs
-
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
-
----
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+As fiber length increases, received power and Q-factor decrease, while BER increases. The eye diagram becomes more closed, showing signal quality is reduced.
